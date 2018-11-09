@@ -8,7 +8,37 @@ img{
        margin-left:80%;
        width:50%;
        font-size: 12px;
+       
    }
+ .lang{
+     
+     margin:auto;
+     width:100%;
+ }
+ .links1{
+     color:green;
+ }
+   a{
+       color:black;
+   }
+   a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+.lang{
+    display: inline-block;
+}
   
    .input1{
 
@@ -18,10 +48,17 @@ img{
        padding: 15px 15px;
       }
       .input2{
-        margin: auto; 
-          width:25%;
-          padding:15px 15px;
-      }
+          margin: auto;
+          width: 20%;
+          padding: 15px 15px;
+          }
+          .input3{
+              padding: 15px 15px;
+          }
+          .input4{
+              padding: 15px 15px;
+          }
+         
      
       p{
           text-align: center;
